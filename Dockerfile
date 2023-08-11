@@ -6,4 +6,4 @@ RUN pip install -r requirements.txt
 COPY . /fastApiProject1/
 COPY ./entrypoint.sh /
 ENTRYPOINT ["sh","/entrypoint.sh"]
-# test
+# test 123
